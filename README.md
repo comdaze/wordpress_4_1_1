@@ -41,3 +41,5 @@ After Wordpress Is Configured
 ```
 define('WP_REDIS_HOST', '');
 ```
+Demo video:
+https://www.youtube.com/watch?v=T6X9jSH2wCM
